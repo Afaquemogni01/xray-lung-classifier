@@ -1,0 +1,22 @@
+# Python and enviroment 
+
+
+.venv/
+__pycache__/
+*.py[cod]
+
+# Generated projects  and artifacts
+
+models/
+reports/figures/
+reports/metrics/
+
+
+# Local data and operating-system files
+
+data/
+.DS_Store
+
+
+# secrets
+.env
