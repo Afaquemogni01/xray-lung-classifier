@@ -1,4 +1,4 @@
-# Python and enviroment 
+
 
 
 .venv/
@@ -7,9 +7,10 @@ __pycache__/
 
 # Generated projects  and artifacts
 
-models/
-reports/figures/
-reports/metrics/
+/models/
+/reports/igures/
+/reports/metrics/
+/data/
 
 
 # Local data and operating-system files
